@@ -1,5 +1,6 @@
 # KnightClimb
  WHEN LOADING UNITY PROJECT FROM GITHUB IF IT LOOKS LIKE ITS EMPTY GO TO SCENES FOLDER AND LOAD THE "SAMPLESCENE" I DIDN'T RENAME IT BUT IT IS WHERE THE ENTIRE GAME TAKES PLACE.
+ 
  (sorry im super nervous that i'll somehow be disqualified because of problems with rebuilding the project please contact me if you run into problems)
  
  Hi, I'm Jordan, or Jobi, or DorbanDurbawak on twitch.
